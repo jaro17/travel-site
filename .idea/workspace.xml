@@ -1,33 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="Jardo, added new meta keywords.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="Jardo, added new meta keywords." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +52,7 @@
       <updated>1603096067754</updated>
       <workItem from="1603096068831" duration="456000" />
       <workItem from="1603096549767" duration="880000" />
-      <workItem from="1603115423107" duration="45000" />
+      <workItem from="1603115423107" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="Jardo, added new meta keywords.">
       <created>1603115152193</created>
@@ -97,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603115305153</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Jardo, added new meta keywords.">
+      <created>1603115691474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603115691474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +91,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -132,6 +142,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Jardo, added new meta keywords." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="611" y="71" key="FileChooserDialogImpl" timestamp="1603115765784">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="611" y="71" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603115765784" />
     <state x="606" y="334" key="Github.CreateGistDialog" timestamp="1603096576869">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -140,10 +154,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="260" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603115467451" />
-    <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603096818169">
+    <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603115710322">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="315" y="144" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603096818169" />
+    <state x="315" y="144" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603115710322" />
     <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603096126425">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
