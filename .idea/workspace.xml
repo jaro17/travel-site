@@ -16,14 +16,29 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="Jardo, added new meta keywords." />
+    <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="Jardo, added new meta keywords.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -42,9 +57,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,6 +74,7 @@
       <updated>1603096067754</updated>
       <workItem from="1603096068831" duration="456000" />
       <workItem from="1603096549767" duration="880000" />
+      <workItem from="1603115423107" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Jardo, added new meta keywords.">
       <created>1603115152193</created>
@@ -65,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603115152193</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Jardo, added new meta keywords.">
+      <created>1603115212317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603115212317</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Jardo, added new meta keywords.">
+      <created>1603115305153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603115305153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +136,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="606" y="334" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1603096576869" />
+    <state x="260" y="0" key="SettingsEditor" timestamp="1603115467451">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="260" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603115467451" />
     <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603096818169">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
