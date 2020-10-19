@@ -1,0 +1,127 @@
+Index: app/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html>\r\n<head>\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\r\n  <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700' rel='stylesheet' type='text/css'>\r\n  <title>Clear View Escapes</title>\r\n  <meta name=\"keywords\" content=\"Travel planning, travel bundles, travel escapes, affordable travel\">\r\n  <meta name=\"description\" content=\"Your clarity. One trip away. We create soul restoring journeys that inspire you to be you.\">\r\n</head>\r\n<body>\r\n  <header>\r\n    <img src=\"assets/images/icons/clear-view-escapes.svg\">\r\n    <a href=\"#\">Get in Touch</a>\r\n    <nav>\r\n      <ul>\r\n        <li><a href=\"#our-beginning\">Our Beginning</a></li>\r\n        <li><a href=\"#features\">Features</a></li>\r\n        <li><a href=\"#testimonials\">Testimonials</a></li>\r\n      </ul>\r\n    </nav>\r\n  </header>\r\n\r\n  <div class=\"large-hero\">\r\n    <img src=\"assets/images/hero--large.jpg\">\r\n    <h1>Your clarity.</h1>\r\n    <h2>One trip away.</h2>\r\n    <p>We create soul restoring journeys that inspire you to be you.</p>\r\n    <p><a href=\"#\">Get Started Today</a></p>\r\n  </div>\r\n\r\n  <div id=\"our-beginning\">\r\n    <h2>The first trip we planned was our own.</h2>\r\n    <h3>Ever since, we&rsquo;ve been working to make travel better for everyone.</h3>\r\n    <img src=\"assets/images/first-trip.jpg\" alt=\"Couple walking down a street.\">\r\n    <img src=\"assets/images/our-start.jpg\" alt=\"Our founder, Jane Doe\">\r\n    <h2>Here&rsquo;s how we got started&hellip;</h2>\r\n    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <a href=\"#\">quis nostrud exercitation</a> ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n    <p>Duis aute irure dolor in <strong>reprehenderit in</strong> voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>\r\n    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum velit esse cillum <strong>dolore eu fugiat.</strong></p>\r\n  </div>\r\n\r\n  <div id=\"features\">\r\n    <img src=\"assets/images/icons/star.svg\">\r\n    <h2>Our Features</h2>\r\n  \r\n    <img src=\"assets/images/icons/rain.svg\">\r\n    <h3>We&rsquo;ll Watch the Weather</h3>\r\n    <p>Download our app and we&rsquo;ll send you a notice if it&rsquo;s about to rain in the next 20 minutes around your current location. A good rain can be refreshing, but sometimes you just want to stay dry.</p>\r\n\r\n    <img src=\"assets/images/icons/globe.svg\">\r\n    <h3>Global Guides</h3>\r\n    <p>We&rsquo;ve scoured the entire planet for the best retreats and beautiful vistas. If there&rsquo;s a corner of the world you want to escape to we know the most scenic and inspiring locations.</p>\r\n\r\n    <img src=\"assets/images/icons/wifi.svg\">\r\n    <h3>Wi-Fi Waypoints</h3>\r\n    <p>We only send you on trips to places we can personally vouch for as being amazing. Which means we&rsquo;ve mapped out where local wi-fi spots are and marked them in our app&rsquo;s map view.</p>\r\n\r\n    <img src=\"assets/images/icons/fire.svg\">\r\n    <h3>Survival Kit</h3>\r\n    <p>Everytime you book an escape with us we send you a survival kit with the finest materials. The kit will allow you to setup a tent, start a fire, scratch your own back and lower your taxes.</p>\r\n  </div>\r\n\r\n  <div id=\"testimonials\">\r\n    <img src=\"assets/images/icons/comment.svg\">\r\n    <h2>Real Testimonials</h2>\r\n\r\n    <img src=\"assets/images/testimonial-jane.jpg\">\r\n    <h3>Jane Doe</h3>\r\n    <h3>9 Time Escaper</h3>\r\n    <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&rdquo;</p>\r\n\r\n    <img src=\"assets/images/testimonial-john.jpg\">\r\n    <h3>John Smith</h3>\r\n    <h3>4 Time Escaper</h3>\r\n    <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur.&rdquo;</p>\r\n\r\n    <img src=\"assets/images/testimonial-cat.jpg\">\r\n    <h3>Cat McKitty</h3>\r\n    <h3>6 Time Escaper</h3>\r\n    <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.&rdquo;</p>\r\n  </div>\r\n\r\n  <footer>\r\n    <p>Copyright &copy; 2019 Clear View Escapes. All rights reserved. <a href=\"#\">Get in Touch</a></p>\r\n  </footer>\r\n  <!-- Leave this commented out HTML here until you need it for an upcoming \"modal\" lesson\r\n  <div class=\"modal\">\r\n    <div class=\"modal__inner\">\r\n      <h2 class=\"section-title section-title--blue section-title--less-margin\"><img src=\"assets/images/icons/mail.svg\" class=\"section-title__icon\"> Get in <strong>Touch</strong></h2>\r\n      <div class=\"wrapper wrapper--narrow\">\r\n        <p class=\"modal__description\">We will have an online order system in place soon. Until then, connect with us on any of the platforms below!</p>\r\n      </div>\r\n\r\n      <div class=\"social-icons\">\r\n        <a href=\"#\" class=\"social-icons__icon\"><img src=\"assets/images/icons/facebook.svg\" alt=\"Facebook\"></a>\r\n        <a href=\"#\" class=\"social-icons__icon\"><img src=\"assets/images/icons/twitter.svg\" alt=\"Twitter\"></a>\r\n        <a href=\"#\" class=\"social-icons__icon\"><img src=\"assets/images/icons/instagram.svg\" alt=\"Instagram\"></a>\r\n        <a href=\"#\" class=\"social-icons__icon\"><img src=\"assets/images/icons/youtube.svg\" alt=\"YouTube\"></a>\r\n      </div>\r\n    </div>\r\n    <div class=\"modal__close\">X</div>\r\n  </div>\r\n  This is the end of the \"modal\" reference HTML -->\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/index.html	(revision 7619db1777d2aa0abf04d2105fc4afb195e0d616)
++++ app/index.html	(date 1603114438164)
+@@ -10,7 +10,7 @@
+ <body>
+   <header>
+     <img src="assets/images/icons/clear-view-escapes.svg">
+-    <a href="#">Get in Touch</a>
++    <a href="#">Get in Touch and Jardo and Hanny</a>
+     <nav>
+       <ul>
+         <li><a href="#our-beginning">Our Beginning</a></li>
+Index: app/contact.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/contact.html	(date 1603114860034)
++++ app/contact.html	(date 1603114860034)
+@@ -0,0 +1,11 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++</head>
++<body>
++    <h1>Hello</h1>
++    <h1>Holiday</h1>
++</body>
++</html>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3f46565a-f377-4627-9d5b-4043d1c07161\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.gitignore\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1j5Zlz7wQiziICqw1UxiXJQ6r89\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ChangesTree.GroupingKeys\" value=\"\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3f46565a-f377-4627-9d5b-4043d1c07161\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1603096067754</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1603096067754</updated>\r\n      <workItem from=\"1603096068831\" duration=\"456000\" />\r\n      <workItem from=\"1603096549767\" duration=\"880000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"606\" y=\"334\" key=\"Github.CreateGistDialog\" timestamp=\"1603096576869\">\r\n      <screen x=\"0\" y=\"0\" width=\"1600\" height=\"860\" />\r\n    </state>\r\n    <state x=\"606\" y=\"334\" key=\"Github.CreateGistDialog/0.0.1600.860@0.0.1600.860\" timestamp=\"1603096576869\" />\r\n    <state x=\"315\" y=\"144\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1603096818169\">\r\n      <screen x=\"0\" y=\"0\" width=\"1600\" height=\"860\" />\r\n    </state>\r\n    <state x=\"315\" y=\"144\" key=\"Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860\" timestamp=\"1603096818169\" />\r\n    <state x=\"591\" y=\"371\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1603096126425\">\r\n      <screen x=\"0\" y=\"0\" width=\"1600\" height=\"860\" />\r\n    </state>\r\n    <state x=\"591\" y=\"371\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860\" timestamp=\"1603096126425\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 7619db1777d2aa0abf04d2105fc4afb195e0d616)
++++ .idea/workspace.xml	(date 1603114981832)
+@@ -16,16 +16,31 @@
+         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+       </path>
+     </expand>
+-    <select />
++    <select>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </select>
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
++    <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="Added new meta keywords.">
++      <change afterPath="$PROJECT_DIR$/app/contact.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="HTML File" />
++      </list>
++    </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="PUSH_TAGS">
+@@ -44,6 +59,7 @@
+   </component>
+   <component name="PropertiesComponent">
+     <property name="ChangesTree.GroupingKeys" value="" />
++    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+@@ -58,7 +74,8 @@
+       <option name="presentableId" value="Default" />
+       <updated>1603096067754</updated>
+       <workItem from="1603096068831" duration="456000" />
+-      <workItem from="1603096549767" duration="880000" />
++      <workItem from="1603096549767" duration="2134000" />
++      <workItem from="1603113719751" duration="1105000" />
+     </task>
+     <servers />
+   </component>
+@@ -77,18 +94,22 @@
+     </option>
+     <option name="oldMeFiltersMigrated" value="true" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Added new meta keywords." />
++    <option name="LAST_COMMIT_MESSAGE" value="Added new meta keywords." />
++  </component>
+   <component name="WindowStateProjectService">
+     <state x="606" y="334" key="Github.CreateGistDialog" timestamp="1603096576869">
+       <screen x="0" y="0" width="1600" height="860" />
+     </state>
+     <state x="606" y="334" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1603096576869" />
+-    <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603096818169">
++    <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603114919430">
+       <screen x="0" y="0" width="1600" height="860" />
+     </state>
+-    <state x="315" y="144" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603096818169" />
+-    <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603096126425">
++    <state x="315" y="144" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603114919430" />
++    <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603114665297">
+       <screen x="0" y="0" width="1600" height="860" />
+     </state>
+-    <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1603096126425" />
++    <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1603114665297" />
+   </component>
+ </project>
+\ No newline at end of file
