@@ -5,7 +5,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="Jardo, added new meta keywords." />
+    <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="Deleting output html">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +43,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,6 +58,9 @@
       <workItem from="1603096068831" duration="456000" />
       <workItem from="1603096549767" duration="880000" />
       <workItem from="1603115423107" duration="344000" />
+      <workItem from="1603115769570" duration="1996000" />
+      <workItem from="1603131305149" duration="608000" />
+      <workItem from="1603135035072" duration="1029000" />
     </task>
     <task id="LOCAL-00001" summary="Jardo, added new meta keywords.">
       <created>1603115152193</created>
@@ -82,7 +90,42 @@
       <option name="project" value="LOCAL" />
       <updated>1603115691474</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Deleting contact.html">
+      <created>1603115929863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603115929863</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Deleting contact.html">
+      <created>1603118024977</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603118024977</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Deleting contact.html">
+      <created>1603118130537</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603118130537</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding Hanny">
+      <created>1603118165848</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603118165848</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Deleting output html">
+      <created>1603118446048</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603118446048</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,28 +182,35 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Jardo, added new meta keywords." />
-    <option name="LAST_COMMIT_MESSAGE" value="Jardo, added new meta keywords." />
+    <MESSAGE value="Deleting contact.html" />
+    <MESSAGE value="Adding Hanny" />
+    <MESSAGE value="Deleting output html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleting output html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="611" y="71" key="FileChooserDialogImpl" timestamp="1603115765784">
+    <state x="606" y="166" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog" timestamp="1603119124270">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="611" y="71" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603115765784" />
+    <state x="606" y="166" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/0.0.1600.860@0.0.1600.860" timestamp="1603119124270" />
+    <state x="611" y="71" key="FileChooserDialogImpl" timestamp="1603132376263">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="611" y="71" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603132376263" />
     <state x="606" y="334" key="Github.CreateGistDialog" timestamp="1603096576869">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="606" y="334" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1603096576869" />
-    <state x="260" y="0" key="SettingsEditor" timestamp="1603115467451">
+    <state x="260" y="0" key="SettingsEditor" timestamp="1603119134580">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="260" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603115467451" />
-    <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603115710322">
+    <state x="260" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603119134580" />
+    <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603118451117">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="315" y="144" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603115710322" />
-    <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603096126425">
+    <state x="315" y="144" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603118451117" />
+    <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603115989931">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1603096126425" />
+    <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1603115989931" />
   </component>
 </project>
