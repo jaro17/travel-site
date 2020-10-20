@@ -6,9 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f46565a-f377-4627-9d5b-4043d1c07161" name="Default Changelist" comment="Deleting output html">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/scripts/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -45,6 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +64,8 @@
       <workItem from="1603115423107" duration="344000" />
       <workItem from="1603115769570" duration="1996000" />
       <workItem from="1603131305149" duration="608000" />
-      <workItem from="1603135035072" duration="1029000" />
+      <workItem from="1603135035072" duration="1191000" />
+      <workItem from="1603201465590" duration="3574000" />
     </task>
     <task id="LOCAL-00001" summary="Jardo, added new meta keywords.">
       <created>1603115152193</created>
@@ -125,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603118446048</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Deleting output html">
+      <created>1603136123148</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603136123148</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Deleting output html">
+      <created>1603136132956</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603136132956</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,14 +219,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="606" y="334" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1603096576869" />
+    <state width="1254" height="168" key="GridCell.Tab.0.bottom" timestamp="1603136234812">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1254" height="168" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603136234812" />
+    <state width="1254" height="168" key="GridCell.Tab.0.center" timestamp="1603136234812">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1254" height="168" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603136234812" />
+    <state width="1254" height="168" key="GridCell.Tab.0.left" timestamp="1603136234812">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1254" height="168" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603136234812" />
+    <state width="1254" height="168" key="GridCell.Tab.0.right" timestamp="1603136234812">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1254" height="168" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603136234812" />
     <state x="260" y="0" key="SettingsEditor" timestamp="1603119134580">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="260" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603119134580" />
-    <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603118451117">
+    <state x="315" y="144" key="Vcs.Push.Dialog.v2" timestamp="1603201502146">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="315" y="144" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603118451117" />
+    <state x="315" y="144" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603201502146" />
     <state x="591" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603115989931">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
